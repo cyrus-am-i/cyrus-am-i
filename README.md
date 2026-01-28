@@ -17,6 +17,8 @@
 * 🦀 **Rust Migration** – Rewriting core logic for the Sealevel engine and Anchor framework.
 * ⚡ **Speed First** – Leveraging 400ms slots to eliminate the sequential bottlenecks of the EVM.
 * 💰 **F11XY13NagySTUv4LXNmTVsfwpJ1yBL28f94QPKCta2r** – Support the magic.
+*  **5XUk1oay2Fc6ZVoNnP7BvMTTUu7Ehc4or9ix9gEYpump** – $WIZ.
+
 
 ## Current Projects
 
