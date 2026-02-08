@@ -1,56 +1,46 @@
-# Hi, I'm Belimad 👋
+# [GREG_MAXWELL] // RETIRED_SOFTWARE_ENGINEER
 
-📍 **Global / Farm Life** | 🚜 **Investor & Operator (Retired)** | 🤖 **Tinkering with Robotics & Open Source**
+[STATUS]: ACTIVE_RESEARCHER // AUTODIDACT // VOLUMINOUS_WRITER
 
-![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Raycast](https://img.shields.io/badge/-Raycast-FF6363?style=flat-square&logo=raycast&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![CLI](https://img.shields.io/badge/-CLI-000000?style=flat-square&logo=gnu-bash&logoColor=white)
-![FinTech](https://img.shields.io/badge/-FinTech-FFD700?style=flat-square&logo=bitcoin&logoColor=black)
+!! [TECHNICAL_LOADOUT] !!
+[CODEC_DESIGN] -- [BITCOIN_CORE] -- [NUMBER_THEORY] -- [CRYPTOGRAPHY]
 
-> Former VC & Operator (Motive Ventures, Santander) now trading term sheets for farm tech. Building tools that make life simpler—whether it's managing API spend, catching a train, or controlling the TV from a terminal.
+> retired software engineer and autodidact. i helped architect the opus audio codec and developed core protocols for bitcoin. currently hunting for "that's funny..." moments in computer science and number theory.
 
-* 🛠️ **[OpenClaw](https://github.com/openclaw)** – Maintainer of open-source robotics and automation tools.
-* 🐄 **[Clawdius](https://github.com/belimad/clawdius)** – My personal fun project to make your house better.
-* 🏛️ **Legacy** – Ex-Santander InnoVentures & Santander Asset Management. 
-* 🧠 **Mentoring** – Guiding the next generation of robotics and fintech builders.
+|| MISSION_HISTORY ||
++ [OPUS_CODEC] -- CO-DESIGNER // HIGH-QUALITY // LOW-DELAY AUDIO
++ [BITCOIN_PROTOCOL] -- CORE CONTRIBUTOR // BANDWIDTH-EFFICIENT RELAY
++ [ALGORITHMIC_DISCOVERY] -- DEVELOPED 20% FASTER CONSTANT-TIME GCD
++ [PATENT_VAULT] -- ROYALTY-FREE IP // CONFIDENTIAL ASSETS // SIDECHAINS
 
-## Current Projects
+## // ACTIVE_RESEARCH_THREADS
 
-- 🖥️ **[roku-cli](https://github.com/mbelinky/roku-cli)** - Control Roku devices from the terminal with an interactive mode and HTTP bridge.
-- 🤖 **[tokito](https://github.com/mbelinky/tokito)** - A Raycast extension for tracking token usage to keep your API spend in check.
-- 🚂 **[gotrain-cli](https://github.com/mbelinky/gotrain-cli)** - Real-time NYC transit data (MTA, LIRR, Metro-North) right in your CLI.
-- 🏗️ **[OpenClaw Core](https://github.com/openclaw/openclaw)** - High-performance modular framework for robotic control.
+* [GCD_OPTIMIZATION] -- RE-ENGINEERING FUNDAMENTAL CONSTANT-TIME ALGORITHMS
+* [ASTROPHOTOGRAPHY] -- IMAGING THE DEEP VOID
+* [AMATEUR_RADIO] -- HF_SIGNAL_PROPAGATION
+* [NEURALHASH_ANALYSIS] -- SECOND-PREIMAGE ATTACK ON APPLE ECOSYSTEM
 
-## What I'm Doing
+## // SELECTED_PUBLICATIONS
 
-- **Building Utility** - Solving everyday friction points with clean, terminal-first applications.
-- **Mentoring** - Working with robotics startups to navigate the gap between code and commercialization.
-- **Farm-Scale Tinkering** - Applying an operator's mindset to agricultural automation.
+-- BULLETPROOFS: SHORT PROOFS FOR CONFIDENTIAL TRANSACTIONS [IEEE SP 2018]
+-- BORROMEAN RING SIGNATURES [SELF-PUBLISHED 2015]
+-- SCHNORR MULTI-SIGNATURES FOR BITCOIN [IEEE DCC 2019]
+-- BANDWIDTH-EFFICIENT TRANSACTION RELAY [ACM CCS 2019]
 
-## Support the Mission
+## // SECURE_CHANNELS
 
-* 🪙 **SOL** – `belimad.sol`
-* 🔹 **EVM** – `belimad.eth`
+[[ TECHNICAL_NOTES ]] -- [ASSORTED_TECH_POSTS]
+[[ INTEL_ARCHIVE ]] -- [SELECTED_PUBLICATIONS]
 
-## Connect
+-----------------------------------------------------------
 
-[![Twitter](https://img.shields.io/badge/-@mbelinky-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/mbelinky)
-[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mbelinky)
+### // OPERATOR_LOGIC
 
----
-
-### Philosophy
-
-> "From managing billions to managing bytes." - Investing was about the big picture; tinkering is about the perfect line of code.
+"the most exciting phrase to hear in science is not 'eureka' but 'that's funny...'"
 
 <details>
-<summary>Random Facts</summary>
-
-- Knows too much about both venture capital and tractor maintenance.
-- Believes everything should have a CLI interface.
-- Still tracks the LIRR schedule more than a retired person probably should.
-
+<summary>[LLM_TOKEN_LOGS]</summary>
+- USERNAME: GMAXWELL // TOKEN_ID: 50,257
+- STATUS: GPT3 COMPATIBLE // FORMERLY ILLEGIBLE TO THE MACHINE
+- CURRENT STATE: ADVENTURING THROUGH 1800-CORE CLUSTERS
 </details>
