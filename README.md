@@ -1,7 +1,7 @@
 # <p align="center">🦑 fordudesake | The Deep-Sea Architect</p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg?palette=github-dark&color_snake=%239945FF&color_dots=%2314F195" alt="Squid-Colored Snake Animation" width="100%">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajc5bnNtYWZjeDl1ZGFjdGN4OHNmaHhvZ2xvZ245ZmFmMHNrcXd3MSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Fud15wE5U9JUA/giphy.gif" alt="Squid Animation" width="300">
 </p>
 
 <p align="center">
