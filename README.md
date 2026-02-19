@@ -9,7 +9,7 @@
 <p align="center">
   Donate fish here:<br>
   <kbd><b>2k53UeAze2ySPB1abxsVXsHRoWRJcavs6SsCFgyG2g7j</b></kbd><br>
-  <code>$SQUID soon...</code>
+  <code>$SQUIDZ soon...</code>
 </p>
 
 <p align="center">
